@@ -1,8 +1,9 @@
 {
-  "name": "project__04",
+  "name": "mmm-188currency_converter",
   "version": "1.0.0",
   "main": "index.js",
   "type": "module",
+  "bin": "currency_converter.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
